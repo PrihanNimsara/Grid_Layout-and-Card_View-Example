@@ -3,4 +3,6 @@ This repository contains grid layout and card view. And also I explained how to 
 
 
 
-![alt tag](https://user-images.githubusercontent.com/29063580/43071588-ef9d4740-8e90-11e8-8841-80d21f6da127.png"Screen Shot of the an android ui")
+
+
+![test image size](https://user-images.githubusercontent.com/29063580/43071588-ef9d4740-8e90-11e8-8841-80d21f6da127.png){:height="50%" width="50%"}
